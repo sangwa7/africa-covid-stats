@@ -10,7 +10,7 @@
 
 ## Live Presentation Video
 
-[Link] ()
+[Link] (https://www.loom.com/share/1784277732d542a38f16ff8183dad995)
 
 ## Milestones completed:
 - Create a new React App using CRA.
@@ -26,10 +26,10 @@
 
 ## Getting Started
 
-* Clone this repo <https://github.com/sangwa7/Africa-covid-statistics.git>
+* Clone this repo <https://github.com/sangwa7/africa-covid-stats>
 
     ```bash
-    git clone https://github.com/sangwa7/Africa-covid-statistics.git
+    git clone https://github.com/sangwa7/africa-covid-stats
     ```
 
 * Navigate to react-capstone-project folder/directory
