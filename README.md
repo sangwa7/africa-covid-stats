@@ -10,7 +10,7 @@
 
 ## Live Presentation Video
 
-[Link] ()
+[Link] (https://www.loom.com/share/1784277732d542a38f16ff8183dad995)
 
 ## Milestones completed:
 - Create a new React App using CRA.
