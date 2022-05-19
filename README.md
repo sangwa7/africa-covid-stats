@@ -26,10 +26,10 @@
 
 ## Getting Started
 
-* Clone this repo <https://github.com/sangwa7/Africa-covid-statistics.git>
+* Clone this repo <https://github.com/sangwa7/africa-covid-stats>
 
     ```bash
-    git clone https://github.com/sangwa7/Africa-covid-statistics.git
+    git clone https://github.com/sangwa7/africa-covid-stats
     ```
 
 * Navigate to react-capstone-project folder/directory
