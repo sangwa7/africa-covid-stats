@@ -20,7 +20,7 @@ function HomePage() {
   const location = useLocation();
   const query = new URLSearchParams(location.search);
   const search = query.get('search') || '';
-  Africa = Africa.filter((country) => country.country.includes(search.toLowerCase()));
+  Africa = Africa.filter((country) => country.country.includes(search));
   const navigate = useNavigate();
   const [searchValue, setSearchValue] = useState(search);
 
